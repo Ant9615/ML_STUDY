@@ -9,11 +9,9 @@
 
 ## Books 
 
-Python Data Science Handbook (numpy and Scikit-Learn)
+Python Data Science Handbook 
 
 Hands-on Machine Learning  (Theory)
-
-Introduction to Pandas for Data analysis (Pandas)
 
 Begging Deep Learning with Pytorch (Pytorch)
 
