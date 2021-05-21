@@ -13,7 +13,6 @@ Python Data Science Handbook
 
 Hands-on Machine Learning  (Theory)
 
-Begging Deep Learning with Pytorch (Pytorch)
 
 
 
