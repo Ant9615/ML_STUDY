@@ -1,7 +1,5 @@
 # Machine Learning study
 
-- Numpy
-- Pandas
 - Scikit-learn
 - Pytorch 
 
@@ -9,7 +7,7 @@
 
 ## Books 
 
-Python Data Science Handbook 
+Deep Learning from scratch 
 
 Hands-on Machine Learning  (Theory)
 
